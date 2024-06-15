@@ -1,6 +1,8 @@
 # CALLBACK | An Open Source Clone of Microsoft's Recall
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 ## Introduction
 
@@ -82,16 +84,8 @@ CALLBACK is an open-source recreation of Microsoft's recently announced Recall f
 
 Contributions are welcome! Please fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Microsoft for the concept of Recall.
 - The open-source community for providing the tools and libraries used in this project.
-
-## Contact
-
-For any inquiries or feedback, please open an issue on GitHub.
 
