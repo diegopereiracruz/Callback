@@ -24,7 +24,7 @@ CALLBACK is an open-source recreation of Microsoft's recently announced Recall f
 - Tesseract OCR
 - Required Python packages listed in `requirements.txt`
 
-### Setup
+### Setup (Windows only at the moment)
 
 1. Clone the repository:
     ```bash
@@ -37,7 +37,7 @@ CALLBACK is an open-source recreation of Microsoft's recently announced Recall f
     pip install -r requirements.txt
     ```
 
-3. Ensure Tesseract OCR is installed and its path is correctly set in `callback.py`:
+3. Ensure [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki) is installed and its executable path is correctly set in `callback.py`:
     ```python
     pytesseract.pytesseract.tesseract_cmd = r'Path\\to\\tesseract.exe'
     ```
