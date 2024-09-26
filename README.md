@@ -30,8 +30,7 @@ CALLBACK is an open-source recreation of Microsoft's recently announced Recall f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/diegopereiracruz/Callback.git
-    cd Callback
+    git clone https://github.com/diegopereiracruz/Callback.git; cd Callback
     ```
 
 2. Install required Python packages:
